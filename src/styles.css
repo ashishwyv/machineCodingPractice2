@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input_bar {
+  max-width: 100%;
+  height: 25px;
+  background-color: white;
+  text-align: center;
+  border: 1px solid;
+}
+.input_component {
+  /* width: 50%; */
+  height: 25px;
+  color: yellow;
+  background-color: black;
+}
+.input_componentt {
+  /* width: 50%; */
+  height: 25px;
+  color: yellow;
+  background-color: ;
+  transition: "width 1s linear";
+}
